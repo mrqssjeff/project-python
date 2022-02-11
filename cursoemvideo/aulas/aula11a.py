@@ -1,0 +1,1 @@
+print(f'Os valores são \033[31m{3}\033[m e \033[36m{5}\033[m')
