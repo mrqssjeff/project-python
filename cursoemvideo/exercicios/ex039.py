@@ -10,4 +10,3 @@ elif per == 18:
 else:
     print(f'Já se passaram {per - 18} ano(s) da idade de alistamento! Faça o quanto antes!')
 print('\033[32m---\033[m' * 20)
-
